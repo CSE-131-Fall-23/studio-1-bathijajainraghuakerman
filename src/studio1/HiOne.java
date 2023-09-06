@@ -13,7 +13,7 @@ public class HiOne {
 		System.out.print("Enter your name ");
 		String name = in.nextLine();
 		System.out.print("hi, "+ name + "." );
-		System.out.print("How are you?");
+		System.out.print(" How are you?");
 		
 		//
 		// Below this line, enter code so that this program's output says
